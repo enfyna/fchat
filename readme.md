@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67579e3b-b399-43e1-9bd2-645d53c86990" width=100>
+</p>
+<h1 align="center">
+  fchat
+</h1>
+<p align="center">
+  <img src=https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white>
+  <img src=https://img.shields.io/badge/Moviepy-00bb88?style=for-the-badge&logo=python&logoColor=white>
+  <img src=https://img.shields.io/badge/Newspaper3k-997ACC?style=for-the-badge&logo=python&logoColor=white>
+  <img src=https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge>
+</p>
+<br><br>
+<p align="center">
+  Short form video generator.
+</p>
+<br>
+
 # Installation 
 
 1. Clone the repo:
