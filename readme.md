@@ -13,8 +13,10 @@
 <br><br>
 <p align="center">
   Short form video generator.
-</p>
 <br>
+<p align="center">
+  https://youtu.be/JwFobIa_F50
+</p>
 
 # Installation 
 
