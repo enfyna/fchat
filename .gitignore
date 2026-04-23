@@ -1,0 +1,6 @@
+tiktoken_cache/
+__pycache__/
+static/
+venv/
+new/
+.env
