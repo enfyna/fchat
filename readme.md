@@ -14,9 +14,7 @@
 <p align="center">
   Short form video generator.
 <br>
-<p align="center">
-  https://youtu.be/JwFobIa_F50
-</p>
+
 
 # Installation 
 
